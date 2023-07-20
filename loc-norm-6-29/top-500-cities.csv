@@ -1,0 +1,508 @@
+City,State
+new york,new york
+los angeles,california
+chicago,illinois
+houston,texas
+philadelphia,pennsylvania
+phoenix,arizona
+san antonio,texas
+san diego,california
+dallas,texas
+san jose,california
+austin,texas
+indianapolis,indiana
+jacksonville,florida
+san francisco,california
+columbus,ohio
+charlotte,north carolina
+fort worth,texas
+detroit,michigan
+el paso,texas
+memphis,tennessee
+seattle,washington
+denver,colorado
+washington,district of columbia
+boston,massachusetts
+nashville,tennessee
+baltimore,maryland
+oklahoma city,oklahoma
+louisville,kentucky
+portland,oregon
+las vegas,nevada
+milwaukee,wisconsin
+albuquerque,new mexico
+tucson,arizona
+fresno,california
+sacramento,california
+long beach,california
+kansas city,missouri
+mesa,arizona
+virginia beach,virginia
+atlanta,georgia
+colorado springs,colorado
+omaha,nebraska
+raleigh,north carolina
+miami,florida
+oakland,california
+minneapolis-st,minnesota
+minneapolis,minnesota
+tulsa,oklahoma
+cleveland,ohio
+wichita,kansas
+arlington,texas
+new orleans,louisiana
+bakersfield,california
+tampa,florida
+honolulu,hawaii
+aurora,colorado
+anaheim,california
+santa ana,california
+st. louis,missouri
+st louis,missouri
+riverside,california
+corpus christi,texas
+lexington-fayette,kentucky
+pittsburgh,pennsylvania
+anchorage,alaska
+stockton,california
+cincinnati,ohio
+st. paul,minnesota
+toledo,ohio
+greensboro,north carolina
+newark,new jersey
+plano,texas
+henderson,nevada
+lincoln,nebraska
+buffalo,new york
+jersey city,new jersey
+chula vista,california
+fort wayne,indiana
+orlando,florida
+st. petersburg,florida
+chandler,arizona
+laredo,texas
+norfolk,virginia
+durham,north carolina
+madison,wisconsin
+lubbock,texas
+irvine,california
+winston-salem,north carolina
+glendale,arizona
+garland,texas
+hialeah,florida
+reno,nevada
+chesapeake,virginia
+gilbert,arizona
+baton rouge,louisiana
+irving,texas
+scottsdale,arizona
+north las vegas,nevada
+fremont,california
+boise city,idaho
+richmond,virginia
+san bernardino,california
+birmingham,alabama
+spokane,washington
+rochester,new york
+des moines,iowa
+modesto,california
+fayetteville,north carolina
+tacoma,washington
+oxnard,california
+fontana,california
+columbus,georgia
+montgomery,alabama
+moreno valley,california
+shreveport,louisiana
+aurora,illinois
+yonkers,new york
+akron,ohio
+huntington beach,california
+little rock,arkansas
+augusta-richmond county,georgia
+amarillo,texas
+glendale,california
+mobile,alabama
+grand rapids,michigan
+salt lake city,utah
+tallahassee,florida
+huntsville,alabama
+grand prairie,texas
+knoxville,tennessee
+worcester,massachusetts
+newport news,virginia
+brownsville,texas
+overland park,kansas
+santa clarita,california
+providence,rhode island
+garden grove,california
+chattanooga,tennessee
+oceanside,california
+jackson,mississippi
+fort lauderdale,florida
+santa rosa,california
+rancho cucamonga,california
+port st. lucie,florida
+tempe,arizona
+ontario,california
+vancouver,washington
+cape coral,florida
+sioux falls,south dakota
+springfield,missouri
+peoria,arizona
+pembroke pines,florida
+elk grove,california
+salem,oregon
+lancaster,california
+corona,california
+eugene,oregon
+palmdale,california
+salinas,california
+springfield,massachusetts
+pasadena,texas
+fort collins,colorado
+hayward,california
+pomona,california
+cary,north carolina
+rockford,illinois
+alexandria,virginia
+escondido,california
+mckinney,texas
+kansas city,kansas
+joliet,illinois
+sunnyvale,california
+torrance,california
+bridgeport,connecticut
+lakewood,colorado
+hollywood,florida
+paterson,new jersey
+naperville,illinois
+syracuse,new york
+mesquite,texas
+dayton,ohio
+savannah,georgia
+clarksville,tennessee
+orange,california
+pasadena,california
+fullerton,california
+killeen,texas
+frisco,texas
+hampton,virginia
+mcallen,texas
+warren,michigan
+bellevue,washington
+west valley city,utah
+columbia,south carolina
+olathe,kansas
+sterling heights,michigan
+new haven,connecticut
+miramar,florida
+waco,texas
+thousand oaks,california
+cedar rapids,iowa
+charleston,south carolina
+visalia,california
+topeka,kansas
+elizabeth,new jersey
+gainesville,florida
+thornton,colorado
+roseville,california
+carrollton,texas
+coral springs,florida
+stamford,connecticut
+simi valley,california
+concord,california
+hartford,connecticut
+kent,washington
+lafayette,louisiana
+midland,texas
+surprise,arizona
+denton,texas
+victorville,california
+evansville,indiana
+santa clara,california
+abilene,texas
+athens-clarke county,georgia
+vallejo,california
+allentown,pennsylvania
+norman,oklahoma
+beaumont,texas
+independence,missouri
+murfreesboro,tennessee
+ann arbor,michigan
+springfield,illinois
+berkeley,california
+peoria,illinois
+provo,utah
+el monte,california
+lansing,michigan
+fargo,north dakota
+downey,california
+costa mesa,california
+wilmington,north carolina
+arvada,colorado
+inglewood,california
+miami gardens,florida
+carlsbad,california
+westminster,colorado
+rochester,minnesota
+odessa,texas
+manchester,new hampshire
+elgin,illinois
+west jordan,utah
+round rock,texas
+clearwater,florida
+waterbury,connecticut
+gresham,oregon
+fairfield,california
+billings,montana
+lowell,massachusetts
+san buenaventura,california
+pueblo,colorado
+high point,north carolina
+west covina,california
+richmond,california
+murrieta,california
+cambridge,massachusetts
+antioch,california
+temecula,california
+norwalk,california
+centennial,colorado
+everett,washington
+wichita falls,texas
+palm bay,florida
+green bay,wisconsin
+daly city,california
+burbank,california
+richardson,texas
+pompano beach,florida
+north charleston,south carolina
+broken arrow,oklahoma
+boulder,colorado
+west palm beach,florida
+santa maria,california
+el cajon,california
+davenport,iowa
+rialto,california
+las cruces,new mexico
+san mateo,california
+lewisville,texas
+south bend,indiana
+lakeland,florida
+erie,pennsylvania
+tyler,texas
+pearland,texas
+college station,texas
+kenosha,wisconsin
+sandy springs,georgia
+clovis,california
+flint,michigan
+roanoke,virginia
+albany,new york
+jurupa valley,california
+compton,california
+san angelo,texas
+hillsboro,oregon
+lawton,oklahoma
+renton,washington
+vista,california
+davie,florida
+greeley,colorado
+mission viejo,california
+portsmouth,virginia
+dearborn,michigan
+south gate,california
+tuscaloosa,alabama
+livonia,michigan
+new bedford,massachusetts
+vacaville,california
+brockton,massachusetts
+roswell,georgia
+beaverton,oregon
+quincy,massachusetts
+sparks,nevada
+yakima,washington
+lee's summit,missouri
+federal way,washington
+carson,california
+santa monica,california
+hesperia,california
+allen,texas
+rio rancho,new mexico
+yuma,arizona
+westminster,california
+orem,utah
+lynn,massachusetts
+redding,california
+spokane valley,washington
+miami beach,florida
+league city,texas
+lawrence,kansas
+santa barbara,california
+plantation,florida
+sandy,utah
+sunrise,florida
+macon,georgia
+longmont,colorado
+boca raton,florida
+san marcos,california
+greenville,north carolina
+waukegan,illinois
+fall river,massachusetts
+chico,california
+newton,massachusetts
+san leandro,california
+reading,pennsylvania
+norwalk,connecticut
+fort smith,arkansas
+newport beach,california
+asheville,north carolina
+nashua,new hampshire
+edmond,oklahoma
+whittier,california
+nampa,idaho
+bloomington,minnesota
+deltona,florida
+hawthorne,california
+duluth,minnesota
+carmel,indiana
+suffolk,virginia
+clifton,new jersey
+citrus heights,california
+livermore,california
+tracy,california
+alhambra,california
+kirkland,washington
+trenton,new jersey
+ogden,utah
+hoover,alabama
+cicero,illinois
+fishers,indiana
+sugar land,texas
+danbury,connecticut
+meridian,idaho
+indio,california
+concord,north carolina
+menifee,california
+champaign,illinois
+buena park,california
+troy,michigan
+o'fallon,missouri
+johns creek,georgia
+bellingham,washington
+westland,michigan
+bloomington,indiana
+sioux city,iowa
+warwick,rhode island
+hemet,california
+longview,texas
+farmington hills,michigan
+bend,oregon
+lakewood,california
+merced,california
+mission,texas
+chino,california
+redwood city,california
+edinburg,texas
+cranston,rhode island
+parma,ohio
+new rochelle,new york
+lake forest,california
+napa,california
+hammond,indiana
+fayetteville,arkansas
+bloomington,illinois
+avondale,arizona
+somerville,massachusetts
+palm coast,florida
+bryan,texas
+gary,indiana
+largo,florida
+brooklyn park,minnesota
+tustin,california
+racine,wisconsin
+deerfield beach,florida
+lynchburg,virginia
+mountain view,california
+medford,oregon
+lawrence,massachusetts
+bellflower,california
+melbourne,florida
+st. joseph,missouri
+camden,new jersey
+st. george,utah
+kennewick,washington
+baldwin park,california
+chino hills,california
+alameda,california
+albany,georgia
+arlington heights,illinois
+scranton,pennsylvania
+evanston,illinois
+kalamazoo,michigan
+baytown,texas
+upland,california
+springdale,arkansas
+bethlehem,pennsylvania
+schaumburg,illinois
+mount pleasant,south carolina
+auburn,washington
+decatur,illinois
+san ramon,california
+pleasanton,california
+lake charles,louisiana
+plymouth,minnesota
+bolingbrook,illinois
+pharr,texas
+appleton,wisconsin
+gastonia,north carolina
+folsom,california
+southfield,michigan
+rochester hills,michigan
+new britain,connecticut
+goodyear,arizona
+canton,ohio
+warner robins,georgia
+union city,california
+perris,california
+manteca,california
+iowa city,iowa
+jonesboro,arkansas
+wilmington,delaware
+lynwood,california
+loveland,colorado
+pawtucket,rhode island
+boynton beach,florida
+waukesha,wisconsin
+gulfport,mississippi
+apple valley,california
+passaic,new jersey
+rapid city,south dakota
+layton,utah
+lafayette,indiana
+turlock,california
+muncie,indiana
+temple,texas
+missouri city,texas
+redlands,california
+santa fe,new mexico
+lauderhill,florida
+milpitas,california
+palatine,illinois
+missoula,montana
+rock hill,south carolina
+jacksonville,north carolina
+franklin,tennessee
+flagstaff,arizona
+flower mound,texas
+weston,florida
+waterloo,iowa
+union city,new jersey
+mount vernon,new york
+palo alto,california
+san mateo,california
+milpitas,california
+santa clara,california
+bellevue,washington
+littleton,colorado
+brooklyn,new york
